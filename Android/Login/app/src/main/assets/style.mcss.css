@@ -1,0 +1,64 @@
+//selector by components
+textview{
+color:#017F8D;
+text-align:center;
+text-transform:capitalize;
+}
+ImageView{
+background:icon.png;
+border:5px white;
+border-radius:100%;
+text-align:center;
+}
+
+//selector by class
+.edtUserLogin{
+color:#017F8D;
+font: kanit;
+border:5px #017F8D;
+border-radius:100%
+placeholder-text: User;
+placeholder-color:#017F8D;
+text-transform:capitalize;
+text-align:left;
+padding-left:35px;
+}
+.edtPassLogin{
+color:#017F8D;
+font: kanit;
+border:5px #017F8D;
+border-radius:100%
+placeholder-text: Password;
+placeholder-color:#017F8D;
+text-transform:capitalize;
+text-align:left;
+padding-left:35px;
+}
+#linear{
+text-align:center;
+}
+
+.btnLogin{
+text-align:center;
+border-radius:100%
+text-transform:capitalize;
+font: kanit;
+color: white;
+background-color:#017F8D;
+}
+.container{
+background-image: content.png;
+}
+.txtTitle{
+text-align:center;
+text-transform:uppercase;
+font: kanit 120px;
+color:#10C0E7;
+font-weight:900;
+}
+.txtDescription{
+text-align:center;
+text-transform:capitalize;
+font: kanit 40px;
+color:#10C0E7;
+}
